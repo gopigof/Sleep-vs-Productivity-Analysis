@@ -1,0 +1,25 @@
+[{
+  "encodedId" : "228TQ4",
+  "badgeType" : "DAILY_STEPS",
+  "value" : 5000,
+  "timesAchieved" : 3,
+  "dateTime" : "2019-04-16",
+  "name" : "Boat Shoe (5,000 steps in a day)",
+  "shortName" : "Boat Shoe",
+  "earnedMessage" : "Congrats on earning your first Boat Shoe badge!",
+  "description" : "5,000 steps in a day",
+  "category" : "Daily Steps",
+  "shareText" : "I took 5,000 steps and earned the Boat Shoe badge! #Fitbit"
+},{
+  "encodedId" : "228TTM",
+  "badgeType" : "DAILY_FLOORS",
+  "value" : 10,
+  "timesAchieved" : 1,
+  "dateTime" : "2019-04-16",
+  "name" : "Happy Hill (10 floors in a day)",
+  "shortName" : "Happy Hill",
+  "earnedMessage" : "Congrats on earning your first Happy Hill badge!",
+  "description" : "10 floors in a day",
+  "category" : "Daily Climb",
+  "shareText" : "I climbed 10 flights of stairs and earned the Happy Hill badge! #Fitbit"
+}]
